@@ -14,9 +14,9 @@ title: Algoritmit ja Tekoäly Harjoitustyö
 email: jeremias.berg@helsinki.fi
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ''
-url: 'https://jezberg.github.io/algoLabra/'
+url: 'https://algolabra.github.io'
 github_username: jezberg
-repo_url: 'https://github.com/jezberg/algoLabra'
+repo_url: 'https://github.com/jezberg/algolabra.gihub.io'
 repo_branch: 'master'
 
 
